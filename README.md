@@ -2,8 +2,7 @@
 
 Lympo token smart contract // ERC-20
 
-# Audit Report for Lympo Tokens and Multi-signature wallet
-contracts
+# Audit Report for Lympo Tokens and Multi-signature wallet contracts
 
 #Introduction
 This audit report covers the new LympoToken contract and the multi-signature wallet Multisig contract.
@@ -22,6 +21,7 @@ Multisig.sol contracts.
 
 # Audit Process
 The detailed log of the audit process was documented in a separate document Lympo_Audit_Report_Log_18_02_2019.pdf .
-Disclaimer
+
+#Disclaimer
 The information appearing in this audit report is for general discussion purposes only and is not intended to provide any legal
 security guarantees to any individual or entity.
